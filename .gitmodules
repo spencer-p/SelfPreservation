@@ -1,0 +1,6 @@
+[submodule "hump"]
+	path = hump
+	url = https://github.com/vrld/hump.git
+[submodule "lovebird"]
+	path = lovebird
+	url = https://github.com/rxi/lovebird.git
